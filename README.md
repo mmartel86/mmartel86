@@ -31,14 +31,15 @@ Currently focused on:
 
 ## Featured Projects
 
+### [AI Trading Bot](https://github.com/mmartel86/ai-trading-bot)
+LLM-powered cryptocurrency trading bot that combines technical analysis with sentiment analysis for autonomous trading decisions. Built with Python, OpenAI, and CCXT.
+
+**Tech**: Python, OpenAI API, LangChain, pandas-ta, CCXT
+
 ### [Rutero (RUTR)](https://github.com/mmartel86/rutero-metadata)
 Solana utility token supporting delivery drivers and gig workers across Latin America. Enables fair rewards, fuel benefits, and on-chain identity.
 
-### AI Trading Bot *(Coming Soon)*
-LLM-powered trading bot that analyzes market sentiment and executes strategies autonomously.
-
-### Autonomous Agent System *(Coming Soon)*
-Multi-agent system for automated research, analysis, and decision-making.
+**Tech**: Solana, SPL Token, Metaplex
 
 ---
 
