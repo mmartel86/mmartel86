@@ -36,6 +36,11 @@ Multidisciplinary engineering company with AI-powered development teams. Special
 
 **Tech**: Python, AI Agents, Computational Chemistry, Physics Simulation
 
+### [Freqtrade AI Setup](https://github.com/mmartel86/freqtrade-setup)
+Complete algorithmic trading system with ML adaptive models (XGBoost/LightGBM), autonomous monitoring agent, and Telegram control. Features 25+ technical indicators, dynamic pair selection, and automated retraining every 4 hours.
+
+**Tech**: Python, Freqtrade, FreqAI, XGBoost, Docker, Telegram Bot API
+
 ### [AI Trading Bot](https://github.com/mmartel86/ai-trading-bot)
 LLM-powered cryptocurrency trading bot that combines technical analysis with sentiment analysis for autonomous trading decisions.
 
