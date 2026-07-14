@@ -31,15 +31,36 @@ Currently focused on:
 
 ## Featured Projects
 
+### [Atlas Engineering](https://github.com/mmartel86/atlas-engineering)
+Multidisciplinary engineering company with AI-powered development teams. Specializing in industrial coatings, automation, electronics, and CNC machinery.
+
+**Tech**: Python, AI Agents, Computational Chemistry, Physics Simulation
+
 ### [AI Trading Bot](https://github.com/mmartel86/ai-trading-bot)
-LLM-powered cryptocurrency trading bot that combines technical analysis with sentiment analysis for autonomous trading decisions. Built with Python, OpenAI, and CCXT.
+LLM-powered cryptocurrency trading bot that combines technical analysis with sentiment analysis for autonomous trading decisions.
 
 **Tech**: Python, OpenAI API, LangChain, pandas-ta, CCXT
+
+### [Mercado Libre Scraper](https://github.com/mmartel86/ml-scraper)
+Web scraper for market intelligence and price monitoring from Mercado Libre Mexico. Features anti-detection measures and structured data export.
+
+**Tech**: Python, BeautifulSoup, requests
 
 ### [Rutero (RUTR)](https://github.com/mmartel86/rutero-metadata)
 Solana utility token supporting delivery drivers and gig workers across Latin America. Enables fair rewards, fuel benefits, and on-chain identity.
 
 **Tech**: Solana, SPL Token, Metaplex
+
+## Proprietary Projects (Private)
+
+These projects showcase advanced capabilities in computational chemistry, physics simulation, and cost engineering:
+
+- **Chemical Informatics Lab**: Equation balancer & SMILES parser
+- **Physics Simulation Lab**: Adherence analysis & penetration simulator
+- **Cost Engineering**: BOM generator & cost calculator
+- **Industrial Coatings**: Proprietary formulations for protective systems
+
+*Contact for licensing or collaboration opportunities.*
 
 ---
 
