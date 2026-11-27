@@ -1,87 +1,57 @@
-# Marco Rodriguez
+# Marco Rodríguez
 
-**AI/ML Engineer | Algorithmic Trading | Web3 Developer**
-*Ensenada, Baja California*
+**Ingeniero CAD/CAM/CNC · Análisis de costos y precios unitarios**
+*CAD/CAM/CNC Engineer · Cost & Unit-Price Analysis* — Ensenada, Baja California 🇲🇽
 
----
-
-## About Me
-
-I build intelligent systems at the intersection of **AI, finance, and blockchain**. My work spans autonomous AI agents, algorithmic trading strategies, and decentralized applications on Solana.
-
-Currently focused on:
-- Building AI-powered trading bots with LLM-driven decision making
-- Developing autonomous agent systems with CrewAI and LangChain
-- Creating Web3 utility tokens and DeFi solutions
+Diseño máquinas y piezas, programo su fabricación y sé exactamente cuánto cuestan.
+*I design machines and parts, program how they're made, and know exactly what they cost.*
 
 ---
 
-## Tech Stack
+## Proyectos destacados · Featured projects
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python, JavaScript/TypeScript, Solidity, Rust |
-| **AI/ML** | OpenAI API, LangChain, CrewAI, Hugging Face, scikit-learn |
-| **Trading** | Freqtrade, pandas, TA-Lib, backtesting |
-| **Web3** | Solana, SPL Tokens, Metaplex, Anchor |
-| **Cloud/DevOps** | Docker, AWS, GitHub Actions, CI/CD |
-| **Data** | PostgreSQL, Redis, pandas, NumPy |
+### 🔥 [Mesa CNC de plasma 5×10 ft](https://github.com/mmartel86/cnc-plasma-5x10)
+Diseño completo en Fusion 360 de una mesa de plasma de producción: piñón-cremallera con reducción por banda,
+guías lineales HGR20, eje Z con husillo, control LinuxCNC/QtPlasmaC. 13 placas en DXF listas para corte
+y costeo verificado con proveedores: de ≈ $166k a **≈ $60.6k MXN** por ingeniería de costo.
+*Full 5×10 ft plasma table design, cut-ready DXFs and a supplier-verified BOM cost.*
 
----
+### 🏎️ [Spoiler de fibra de carbono: molde, CAM y plantilla](https://github.com/mmartel86/carbon-spoiler-mold-cam)
+Superficie automotriz → pieza de 2 mm → molde hembra en tooling board → CAM 3 ejes (desbaste + acabado, ≈ 5.5 h)
+→ plantilla de recorte cortada en CNC → precio unitario por pieza.
+*Carbon fiber part-to-mold workflow with 3-axis CAM, trim fixture and unit cost.*
 
-## Featured Projects
+### ⚙️ [Automatización CAD → BOM → cotización](https://github.com/mmartel86/cad-cost-automation)
+Scripts de la API de Fusion 360 que generan geometría mecánica (engranes involutos, cremalleras, poleas HTD,
+guías, cadenas portacables), extractor de lista de materiales y un servidor MCP de consulta de precios
+con fuente y fecha de cada precio.
+*Fusion 360 API automation, BOM extraction and a traceable price-lookup service.*
 
-### [Atlas Engineering](https://github.com/mmartel86/atlas-engineering)
-Multidisciplinary engineering company with AI-powered development teams. Specializing in industrial coatings, automation, electronics, and CNC machinery.
-
-**Tech**: Python, AI Agents, Computational Chemistry, Physics Simulation
-
-### [Freqtrade AI Setup](https://github.com/mmartel86/freqtrade-setup)
-Complete algorithmic trading system with ML adaptive models (XGBoost/LightGBM), autonomous monitoring agent, and Telegram control. Features 25+ technical indicators, dynamic pair selection, and automated retraining every 4 hours.
-
-**Tech**: Python, Freqtrade, FreqAI, XGBoost, Docker, Telegram Bot API
-
-### [AI Trading Bot](https://github.com/mmartel86/ai-trading-bot)
-LLM-powered cryptocurrency trading bot that combines technical analysis with sentiment analysis for autonomous trading decisions.
-
-**Tech**: Python, OpenAI API, LangChain, pandas-ta, CCXT
-
-### [Mercado Libre Scraper](https://github.com/mmartel86/ml-scraper)
-Web scraper for market intelligence and price monitoring from Mercado Libre Mexico. Features anti-detection measures and structured data export.
-
-**Tech**: Python, BeautifulSoup, requests
-
-### [Rutero (RUTR)](https://github.com/mmartel86/rutero-metadata)
-Solana utility token supporting delivery drivers and gig workers across Latin America. Enables fair rewards, fuel benefits, and on-chain identity.
-
-**Tech**: Solana, SPL Token, Metaplex
-
-## Proprietary Projects (Private)
-
-These projects showcase advanced capabilities in computational chemistry, physics simulation, and cost engineering:
-
-- **Chemical Informatics Lab**: Equation balancer & SMILES parser
-- **Physics Simulation Lab**: Adherence analysis & penetration simulator
-- **Cost Engineering**: BOM generator & cost calculator
-- **Industrial Coatings**: Proprietary formulations for protective systems
-
-*Contact for licensing or collaboration opportunities.*
+### 📊 [Costeo de manufactura (APU)](https://github.com/mmartel86/costeo-manufactura)
+Plantilla de análisis de precio unitario: materiales, mano de obra con FSR, costo horario de máquina CNC,
+indirectos, financiamiento y utilidad, con fórmulas visibles.
+*Unit-price analysis template for manufactured parts.*
 
 ---
 
-## GitHub Stats
+## Qué hago · What I do
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmartel86&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmartel86&layout=compact&theme=dark)
-
----
-
-## Let's Connect
-
-- **Twitter/X**: [@ruterorutr](https://x.com/ruterorutr)
-- **Telegram**: [@rutero_rutr](https://t.me/rutero_rutr)
-- **Email**: [Contact me](mailto:mmartel86@example.com)
+| Área | Detalle |
+|---|---|
+| **Diseño CAD** | Fusion 360: diseño mecánico, superficies, ensambles, planos y DXF para corte |
+| **CAM / CNC** | Estrategias de desbaste y acabado 3 ejes, moldes, corte por plasma, LinuxCNC |
+| **Impresión 3D** | Calibración y configuración de impresoras (Klipper, RepRapFirmware/Duet, Marlin) |
+| **Análisis de costos** | Precios unitarios (APU), catálogos de conceptos, explosión de insumos, costo horario de maquinaria, licitaciones de obra pública (LOPSRM) |
+| **Programación** | Python (API de Fusion 360, automatización, datos), TypeScript, Excel avanzado |
 
 ---
 
-*Open to freelance projects and collaborations in AI/ML, trading systems, and Web3 development.*
+## Otros proyectos · Other work
+- [Atlas Engineering](https://github.com/mmartel86/atlas-engineering) — empresa de ingeniería: recubrimientos, automatización, electrónica y maquinaria CNC.
+- [control-pagos](https://github.com/mmartel86/control-pagos) — sistema web de control de pagos (Next.js + Supabase).
+- [inue-ejercicio](https://github.com/mmartel86/inue-ejercicio) — catálogo full-stack con agentes de IA (FastAPI + React).
+
+---
+
+*Abierto a proyectos de diseño y fabricación CNC, moldes, automatización y costeo.*
+*Open to CNC design & manufacturing, mold-making, automation and cost-engineering work.*
