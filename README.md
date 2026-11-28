@@ -16,7 +16,7 @@ guías lineales HGR20, eje Z con husillo, control LinuxCNC/QtPlasmaC. 13 placas 
 y costeo verificado con proveedores: de ≈ $166k a **≈ $60.6k MXN** por ingeniería de costo.
 *Full 5×10 ft plasma table design, cut-ready DXFs and a supplier-verified BOM cost.*
 
-### 🏎️ [Spoiler de fibra de carbono: pieza, molde y plantilla](https://github.com/mmartel86/carbon-spoiler-mold-cam)
+### 🏎️ [Spoiler de fibra de carbono: pieza, molde y plantilla](https://github.com/mmartel86/carbon-spoiler-mold)
 Superficie automotriz → pieza de 2 mm → molde hembra en tooling board → estimación de maquinado del molde en Fusion 360 (≈ 5.5 h)
 → plantilla de recorte cortada en CNC → precio unitario por pieza.
 *Carbon fiber part-to-mold workflow with mold machining estimate, trim fixture and unit cost.*
