@@ -52,7 +52,7 @@ CoreXY open source de gran formato a 800³ con Klipper, y producción de piezas 
 ---
 
 ## Otros proyectos · Other work
-- [Atlas Engineering](https://github.com/mmartel86/atlas-engineering) — empresa de ingeniería: recubrimientos, automatización, electrónica y maquinaria CNC.
+- [Atlas Engineering](https://github.com/mmartel86/atlas-engineering) — mis proyectos personales de ingeniería: maquinaria CNC, recubrimientos y diagnóstico vehicular.
 - [control-pagos](https://github.com/mmartel86/control-pagos) — sistema web de control de pagos (Next.js + Supabase).
 - [inue-ejercicio](https://github.com/mmartel86/inue-ejercicio) — catálogo full-stack con agentes de IA (FastAPI + React).
 
