@@ -1,7 +1,7 @@
 # Marco Rodríguez
 
-**Ingeniero CAD/CAM/CNC · Análisis de costos y precios unitarios**
-*CAD/CAM/CNC Engineer · Cost & Unit-Price Analysis* — Ensenada, Baja California 🇲🇽
+**Diseño CAD y máquinas CNC · Análisis de costos y precios unitarios**
+*CAD Design & CNC Machines · Cost & Unit-Price Analysis* — Ensenada, Baja California 🇲🇽
 
 Diseño máquinas y piezas, programo su fabricación y sé exactamente cuánto cuestan.
 *I design machines and parts, program how they're made, and know exactly what they cost.*
@@ -16,10 +16,10 @@ guías lineales HGR20, eje Z con husillo, control LinuxCNC/QtPlasmaC. 13 placas 
 y costeo verificado con proveedores: de ≈ $166k a **≈ $60.6k MXN** por ingeniería de costo.
 *Full 5×10 ft plasma table design, cut-ready DXFs and a supplier-verified BOM cost.*
 
-### 🏎️ [Spoiler de fibra de carbono: molde, CAM y plantilla](https://github.com/mmartel86/carbon-spoiler-mold-cam)
-Superficie automotriz → pieza de 2 mm → molde hembra en tooling board → CAM 3 ejes (desbaste + acabado, ≈ 5.5 h)
+### 🏎️ [Spoiler de fibra de carbono: pieza, molde y plantilla](https://github.com/mmartel86/carbon-spoiler-mold-cam)
+Superficie automotriz → pieza de 2 mm → molde hembra en tooling board → estimación de maquinado del molde en Fusion 360 (≈ 5.5 h)
 → plantilla de recorte cortada en CNC → precio unitario por pieza.
-*Carbon fiber part-to-mold workflow with 3-axis CAM, trim fixture and unit cost.*
+*Carbon fiber part-to-mold workflow with mold machining estimate, trim fixture and unit cost.*
 
 ### ⚙️ [Automatización CAD → BOM → cotización](https://github.com/mmartel86/cad-cost-automation)
 Scripts de la API de Fusion 360 que generan geometría mecánica (engranes involutos, cremalleras, poleas HTD,
@@ -44,7 +44,7 @@ CoreXY open source de gran formato a 800³ con Klipper, y producción de piezas 
 | Área | Detalle |
 |---|---|
 | **Diseño CAD** | Fusion 360: diseño mecánico, superficies, ensambles, planos y DXF para corte |
-| **CAM / CNC** | Estrategias de desbaste y acabado 3 ejes, moldes, corte por plasma, LinuxCNC |
+| **CNC** | Diseño y armado de máquinas CNC, corte por plasma, LinuxCNC; CAM básico en Fusion 360 |
 | **Impresión 3D** | Calibración y configuración de impresoras (Klipper, RepRapFirmware/Duet, Marlin) |
 | **Análisis de costos** | Precios unitarios (APU), catálogos de conceptos, explosión de insumos, costo horario de maquinaria, licitaciones de obra pública (LOPSRM) |
 | **Programación** | Python (API de Fusion 360, automatización, datos), TypeScript, Excel avanzado |
