@@ -32,6 +32,11 @@ Plantilla de análisis de precio unitario: materiales, mano de obra con FSR, cos
 indirectos, financiamiento y utilidad, con fórmulas visibles.
 *Unit-price analysis template for manufactured parts.*
 
+### 🖨️ [Laboratorio de impresión 3D](https://github.com/mmartel86/3d-printing-lab)
+Reparación y calibración de una delta (Duet/RepRapFirmware: desviación de 0.376 a 0.072 mm), adaptación de una
+CoreXY open source de gran formato a 800³ con Klipper, y producción de piezas funcionales en Marlin.
+*Delta, CoreXY and cartesian printers: calibration, troubleshooting and firmware configuration.*
+
 ---
 
 ## Qué hago · What I do
